@@ -24,7 +24,7 @@ The project covers the end-to-end data science workflow:
 * Matplotlib
 * Seaborn
 
-## How to Run
+## Get started
 
 Install the required dependencies:
 
